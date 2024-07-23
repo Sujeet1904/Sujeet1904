@@ -21,7 +21,7 @@
   • ⚡ Fun fact: Civil Engineer interested in Coding <br>
 </p>
 
-<p align="center">🚀 Eternal Explorer in the Digital Realm</p>
+<p align="center"> 🚀 Eternal Explorer in the Digital Realm </p>
 
 <!-- Typing Animation -->
 <p align="center">
