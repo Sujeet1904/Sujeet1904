@@ -40,9 +40,12 @@
 <!-- GitHub Stats -->
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujeet1904&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false"<br/>
+  <br>
+<img src="https://github-readme-stats.vercel.app/api?username=sujeet1904&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false"<br/>
+  <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujeet1904&theme=default_repocard&hide_border=false"<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeet1904&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+  <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeet1904&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact"<br/>
 
 </div>
 
